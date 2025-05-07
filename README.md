@@ -1,7 +1,6 @@
 <h1 align="center">Deep-Fake-Cam</h1>
 
-
-##  Disclaimer
+ <h1 align="center">Disclaimer</h1>
 
 This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
 
