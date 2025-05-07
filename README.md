@@ -32,7 +32,7 @@ By using this software, you agree to these terms and commit to using it in a man
 
 **4. Install Dependencies**
 
-We highly recommend using a `venv` to avoid issues.
+I highly recommend using a `venv` to avoid issues.
 
 
 For Windows:
